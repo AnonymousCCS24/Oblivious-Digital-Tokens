@@ -12,7 +12,7 @@ tamarin-prover interactive .
 ```
 After some time, this will open a local webserver that you can access by going to `http://127.0.0.1:3001`
 
-Clicking on the `out.spthy` file will load the completed proofs.
+Clicking on the `OTEEODT` link will load the complete proof.
 
 ## Encoding error
 
